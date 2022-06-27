@@ -1,37 +1,93 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/canon-ca/ijstartcanon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>ij.start.canon | Setup IJ Start Canon - Canon IJ Printer</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="IJ.START.CANON" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Just visit canon official website - and enter canon printer model number to download, install and setup canon printer drivers." />
+<meta property="og:description" content="Just visit canon official website - and enter canon printer model number to download, install and setup canon printer drivers." />
+<link rel="canonical" href="https://ij-start.github.io/" />
+<meta property="og:url" content="https://ij-start.github.io/" />
+<meta property="og:site_name" content="Setup IJ Start Canon - Canon IJ Printer" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="IJ.START.CANON" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Just visit canon official website - and enter canon printer model number to download, install and setup canon printer drivers.","headline":"IJ.START.CANON","name":"Setup IJ Start Canon - Canon IJ Printer","url":"https://ij-start.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
 
-### Markdown
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/assets/css/style.css?v=a32fe24b23a6c4e1df4a7bbf9ca3857c0ffb891f">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Setup Google Analytics -->
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
-1. Numbered
-2. List
+<!-- end custom head snippets -->
 
-**Bold** and _Italic_ and `Code` text
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-[Link](url) and ![Image](src)
-```
+    <header class="page-header" role="banner">
+      <h1 class="project-name">IJ.START.CANON</h1>
+      <h2 class="project-tagline">Just visit canon official website - and enter canon printer model number to download, install and setup canon printer drivers.</h2>
+      
+      
+    </header>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    <main id="content" class="main-content" role="main">
+      <h1 id="ijstartcanon">IJ.START.CANON</h1>
 
-### Jekyll Themes
+<p><a href="http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com"><img src="/Get-Started-Now-Button3.png" alt="ij.start.canon" /></a></p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/canon-ca/ijstartcanon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>The <strong>Canon IJ Printer setup</strong> is an all-in-one printer that comes with powerful features and delivers incredible performance. Canon IJ printer is ideal for home as well as office use. <strong>Canon IJ delivers</strong> high-quality printing solutions to users with great speed and performance. Before you start using the Cannon printing services, you need to complete the printer setup and download the drivers by visiting <a href="https://ij-start.github.io/">ij.start.canon</a> printer official website.</p>
 
-### Support or Contact
+<p><em>Learn the simple instructions for the Cannon IJ printer setup. And follow the simple steps to complete printer setup so you can start printing documents effectively.</em></p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2 id="how-to-download-cannon-ij-printer-software-from-ijstartcanon">How to Download Cannon IJ Printer Software from ij.start.canon</h2>
+
+<ol>
+  <li>It’s the preferred option cannon team recommends to use as you will receive an updated version;</li>
+  <li>Visit <a href="https://ij-start.github.io/">ij.start.canon</a>.</li>
+  <li>Click on <strong>“Set Up”</strong>.</li>
+  <li>Choose the first letters of your model type and choose the product name.</li>
+  <li>You’re on the Cannon printer drivers downloads page.</li>
+  <li>Click Download and wait to complethe the process.</li>
+</ol>
+
+<h2 id="canon-ij-printer-guide-for-driver-installation">Canon IJ printer Guide for Driver Installation</h2>
+
+<p><em>Follow the below guide and set up your Cannon printer</em></p>
+
+<ol>
+  <li><strong>Download Drivers –</strong> Visit<a href="https://ij-start.github.io/">ij.start.canon</a> and download the Cannon driver.</li>
+  <li><strong>Install and Select connection type –</strong> Double-tap on file and select wireless or USB connection.</li>
+  <li><strong>Turn ON the Cannon printer –</strong> Press the button to turn on the printer.</li>
+  <li><strong>Connect WiFi –</strong> On a wireless connection, press and hold the WiFI alarm to connect.</li>
+  <li><strong>Flashing blue and green lamps –</strong> If you find this situation, it means the printer is connected to WiFi.</li>
+  <li><strong>Agree on the terms to install –</strong> Read and agree to the license terms of Cannon set up in order to install.</li>
+  <li><strong>Finish the Cannon Printer Setup –</strong> Tap on Complete to finish the final step.</li>
+</ol>
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </main>
+  </body>
+</html>
